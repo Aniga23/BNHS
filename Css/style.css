@@ -6,3 +6,21 @@
 body{
     background-color: whitesmoke;
 }
+#Edge1{
+    background-color: #4d4d4d;
+    width: 100%;
+    height: 60px;
+}
+#egde2{
+    float: right;
+    margin-right: 0 40px;
+}
+.tt1{
+    display: inline-block;
+    margin-right: 30px;
+}
+.dsa2{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: aqua;
+}
